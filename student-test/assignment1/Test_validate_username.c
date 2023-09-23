@@ -1,6 +1,6 @@
 #include "../../assignment-autotest/test/assignment1/username-from-conf-file.h"
 #include "../../examples/autotest-validate/autotest-validate.h"
-#include "./unity/unity.h"
+#include "unity.h"
 #include <stdbool.h>
 #include <stdlib.h>
 
